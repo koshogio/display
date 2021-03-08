@@ -1,2 +1,2 @@
-document.body.innerHTML="Hello kote"
+document.getElementById("kote").innerHTML ="Hello kote"
 console.log('Test')
